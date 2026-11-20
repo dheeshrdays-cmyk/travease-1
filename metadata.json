@@ -1,0 +1,6 @@
+{
+  "name": "Travel Expense Manager",
+  "description": "Android-first travel expense, advances, settlements, vendor payments, and team fund management application for corporate travel administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
